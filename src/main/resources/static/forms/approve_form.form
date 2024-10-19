@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "yes",
+          "value": "true"
+        },
+        {
+          "label": "no",
+          "value": "false"
+        }
+      ],
+      "label": "approve booking",
+      "type": "select",
+      "layout": {
+        "row": "Row_15tpgxf",
+        "columns": null
+      },
+      "id": "Field_1tvfpdh",
+      "key": "approve",
+      "defaultValue": "true"
+    }
+  ],
+  "type": "default",
+  "id": "approve_form",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.28.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.22.0",
+  "versionTag": "1",
+  "schemaVersion": 16
+}
